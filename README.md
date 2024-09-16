@@ -28,9 +28,9 @@ To run this Jupyter Notebook, you need the following Python packages:
 
 You can install the required packages using the following command:
 
-```bash
-pip install pandas plotly
-```
+   ```bash
+   pip install pandas plotly
+   ```
 
 ## Dataset
 The project requires two CSV files:
@@ -43,16 +43,16 @@ Ensure these files are in the same directory as the Jupyter Notebook.
 ## Running the Notebook
 1. Clone the repository or download the Jupyter Notebook file.
 
-```bash
-git clone https://github.com/mshaadk/AB-Testing-Marketing-Campaigns.git
-cd AB-Testing-Marketing-Campaigns
-```
+   ```bash
+   git clone https://github.com/mshaadk/AB-Testing-Marketing-Campaigns.git
+   cd AB-Testing-Marketing-Campaigns
+   ```
 
 2. Launch Jupyter Notebook:
 
-```bash
-jupyter notebook
-```
+   ```bash
+   jupyter notebook
+   ```
 
 3. Open the notebook file `AB Testing.ipynb`.
 
